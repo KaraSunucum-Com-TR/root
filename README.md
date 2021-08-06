@@ -1,0 +1,2 @@
+# root
+ddos script
